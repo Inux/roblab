@@ -1,0 +1,71 @@
+<stm_viewer>
+    <stm_value name="Launchpad/BatteryIsCharging" alias="Launchpad/BatteryIsCharging" watch="1" graph="1">
+        <color red="67" green="58" blue="149" />
+    </stm_value>
+    <stm_value name="Launchpad/BatteryStatus" alias="Launchpad/BatteryStatus" watch="1" graph="1">
+        <color red="27" green="0" blue="26" />
+    </stm_value>
+    <stm_value name="ALSentinel/BatteryLevel" alias="ALSentinel/BatteryLevel" watch="1" graph="1">
+        <color red="207" green="172" blue="18" />
+    </stm_value>
+    <stm_value name="BatteryEmpty" alias="BatteryEmpty" watch="1" graph="1">
+        <color red="50" green="190" blue="203" />
+    </stm_value>
+    <stm_value name="BatteryNotDetected" alias="BatteryNotDetected" watch="1" graph="1">
+        <color red="222" green="210" blue="43" />
+    </stm_value>
+    <stm_value name="BatteryDisChargingFlagChanged" alias="BatteryDisChargingFlagChanged" watch="1" graph="1">
+        <color red="160" green="88" blue="217" />
+    </stm_value>
+    <stm_value name="BatteryChargingFlagChanged" alias="BatteryChargingFlagChanged" watch="1" graph="1">
+        <color red="143" green="163" blue="252" />
+    </stm_value>
+    <stm_value name="BatteryChargeCellVoltageMinChanged" alias="BatteryChargeCellVoltageMinChanged" watch="1" graph="1">
+        <color red="91" green="24" blue="1" />
+    </stm_value>
+    <stm_value name="BatteryPowerPluggedChanged" alias="BatteryPowerPluggedChanged" watch="1" graph="1">
+        <color red="146" green="178" blue="254" />
+    </stm_value>
+    <stm_value name="BatteryTrapIsOpen" alias="BatteryTrapIsOpen" watch="1" graph="1">
+        <color red="61" green="207" blue="184" />
+    </stm_value>
+    <stm_value name="Diagnosis/Passive/Battery/Error" alias="Diagnosis/Passive/Battery/Error" watch="1" graph="1">
+        <color red="136" green="226" blue="76" />
+    </stm_value>
+    <stm_value name="Diagnosis/Active/Battery/Error" alias="Diagnosis/Active/Battery/Error" watch="1" graph="1">
+        <color red="224" green="34" blue="14" />
+    </stm_value>
+    <stm_value name="Diagnosis/Temperature/Battery/Error" alias="Diagnosis/Temperature/Battery/Error" watch="1" graph="1">
+        <color red="250" green="47" blue="196" />
+    </stm_value>
+    <stm_value name="ALBattery/ConnectedToChargingStation" alias="ALBattery/ConnectedToChargingStation" watch="1" graph="1">
+        <color red="92" green="97" blue="230" />
+    </stm_value>
+    <stm_value name="Diagnosis/Temperature/Battery/Status" alias="Diagnosis/Temperature/Battery/Status" watch="1" graph="1">
+        <color red="72" green="246" blue="121" />
+    </stm_value>
+    <stm_value name="BatteryNearlyEmpty" alias="BatteryNearlyEmpty" watch="1" graph="1">
+        <color red="179" green="218" blue="82" />
+    </stm_value>
+    <stm_value name="BatteryChargeChanged" alias="BatteryChargeChanged" watch="1" graph="1">
+        <color red="114" green="94" blue="108" />
+    </stm_value>
+    <stm_value name="BatteryLowDetected" alias="BatteryLowDetected" watch="1" graph="1">
+        <color red="65" green="202" blue="134" />
+    </stm_value>
+    <stm_value name="Launchpad/BatteryLevel" alias="Launchpad/BatteryLevel" watch="1" graph="1">
+        <color red="129" green="34" blue="239" />
+    </stm_value>
+    <stm_value name="ALBattery/BatteryLow" alias="ALBattery/BatteryLow" watch="1" graph="1">
+        <color red="54" green="66" blue="152" />
+    </stm_value>
+    <stm_value name="Diagnosis/Temperature/BatteryFuse/Status" alias="Diagnosis/Temperature/BatteryFuse/Status" watch="1" graph="1">
+        <color red="89" green="149" blue="162" />
+    </stm_value>
+    <stm_value name="BatteryFullChargedFlagChanged" alias="BatteryFullChargedFlagChanged" watch="1" graph="1">
+        <color red="128" green="115" blue="249" />
+    </stm_value>
+    <stm_value name="ALBattery/Charge/BatteryNearlyEmpty" alias="ALBattery/Charge/BatteryNearlyEmpty" watch="1" graph="1">
+        <color red="170" green="153" blue="136" />
+    </stm_value>
+</stm_viewer>
